@@ -1,4 +1,4 @@
-import org.example.Teacher;
+import org.example.question1.Teacher;
 
 public class TeacherTesting {
     public static void main(String[] args) {

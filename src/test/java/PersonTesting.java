@@ -1,4 +1,4 @@
-import org.example.Person;
+import org.example.question1.Person;
 
 public class PersonTesting {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-import org.example.CollegeStudent;
+import org.example.question1.CollegeStudent;
 
 public class CollegeStudentTesting {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-import org.example.Student;
+import org.example.question1.Student;
 
 public class StudentTesting {
 
